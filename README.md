@@ -1,1 +1,1 @@
-<h6>Run youtubeurlgrabberv2.bat and goto your browser right click on video link and click on copy link. The link is automatically saved to a file. Subsequently all youtube video URLs that are right clicked in this way are added to the list</h6>
+<h6>Run youtubeurlgrabberv2.bat and goto your browser right click on video link and click on copy link. Subsequently all youtube video URLs that are right clicked in this way are automatically added to the file</h6>
