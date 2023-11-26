@@ -1,4 +1,4 @@
-- Run youtubeurlgrabberv2.bat 
+- Run youtube_lister.bat 
 - goto your browser 
 - right-click on the video link and then click on 'Copy link'.
 
